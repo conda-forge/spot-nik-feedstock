@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.11"
-  version: "1.4.0"
+  version: "1.5.1"
 
 package:
   name: spot-nik
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spot-nik/spot_nik-${{ version }}.tar.gz
-  sha256: 1aefea1307d4e10492ab0a1f92f7e562af83b4d0a6aaa3234b1221f7d64a920f
+  sha256: d4afb756ee6447b66865ffd9104e4aa71f510ef213af327ba738b5ed6bb26b96
 
 build:
   number: 0
